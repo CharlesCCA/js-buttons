@@ -11,3 +11,9 @@ p {
 body {
   background-color: black;
 }
+
+img {
+  display: none;
+  width: 400px;
+  margin-bottom: 20px;
+}
