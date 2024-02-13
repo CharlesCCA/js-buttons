@@ -28,5 +28,9 @@ document.querySelector(".greenBGColor").addEventListener("click", function() {
   document.querySelector("body").style.backgroundColor = "darkgreen";
 })
 
+document.querySelector(".imageButton").addEventListener("click", function() {
+  document.querySelector(".hiddenImage").style.display = "block";
+})
+
 // Log to console
 console.log(header)
