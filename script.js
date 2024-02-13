@@ -29,4 +29,4 @@ document.querySelector(".greenBGColor").addEventListener("click", function() {
 })
 
 // Log to console
-console.log(message)
+console.log(header)
